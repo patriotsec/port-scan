@@ -7,6 +7,8 @@
 ### pip3 install thread
 ### git clone https://github.com/patriotsec/port-scan.git
 ### cd portscan
-### python3
+### python3 main.py -h
+
+
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
