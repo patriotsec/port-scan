@@ -7,7 +7,7 @@
 ### pip3 install thread
 ### git clone https://github.com/patriotsec/port-scan.git
 ### cd portscan
-### python3 main.py -h
+### python3 main.py -h or --help
 
 
 
